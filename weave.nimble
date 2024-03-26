@@ -6,7 +6,7 @@ description   = "A new awesome nimble package"
 license       = "BSD-3-Clause"
 srcDir        = "src"
 installExt    = @["nim"]
-bin           = @["Weave"]
+bin           = @["weave"]
 
 
 # Dependencies
